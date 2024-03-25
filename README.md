@@ -8,7 +8,6 @@ This VBA Excel script is designed to extract the paths of all files within a spe
 2. Select the folder containing the files you want to search through.
 3. Enter the file pattern using wildcard characters (e.g., `*.xls*`).
 4. The script will populate the paths of matching files into the first column of the first sheet in the Excel workbook.
-5. Run the `formulaLink` function to generate hyperlinks for each file path and its corresponding folder path.
 
 ## Functions
 
